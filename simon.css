@@ -1,0 +1,11 @@
+body {
+background-color: #d1f1ff;
+}
+h1 {
+    text-align: center;
+    font-size: 3.5em;
+}
+#svgPosition {
+    display:block;
+    margin:auto;
+}
